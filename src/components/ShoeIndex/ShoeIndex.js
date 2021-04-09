@@ -51,9 +51,10 @@ align-items:baseline;
 
 
 const LeftColumn = styled.div`
-flex:0 0 250px;
+flex:0 0 248px;
 position: sticky;
 top:16px;
+margin-right:32px;
 `;
 
 const MainColumn = styled.div`

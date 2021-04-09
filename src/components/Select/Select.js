@@ -36,7 +36,6 @@ const Wrapper = styled.label`
 display:flex;
 align-items:baseline;
 gap:16px;
-margin-right:8px;
 `;
 
 const VisibleLabel = styled.span`
